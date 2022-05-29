@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hello` [🧚‍♀️](https://telegra.ph/file/7274507d4da6ff6f3785d.mp4) `My name is` *Asuna*
+`Hello` [🧚‍♀️](https://te.legra.ph/file/ebb3a6357f0d4b082dbf1.jpg) `My name is` *Nami*
 `I am powerful  group management bot.
 Build by The Ghost Hunter for Your Telegram Group , I specialize in managing Entertainment type groups.
 You can find my list of available commands with! Hit` *🔰Commands*   
@@ -83,7 +83,7 @@ You can find my list of available commands with! Hit` *🔰Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/My_Asuna_Robot?startgroup=true"
+            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/Miss_Nami_Bot?startgroup=true"
         ),
     ],
     [
@@ -92,7 +92,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🤴 OWNER", url="https://telegram.dog/The_Ghost_Hunter"
+            text="🤴 OWNER", url="https://telegram.dog/UnoOneOnly"
         ),
     ],
     [
@@ -120,7 +120,7 @@ HELP_STRINGS = """
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
-ASUNA_IMG = "https://telegra.ph/file/7e61fe06a9c02747249b4.png"
+ASUNA_IMG = "https://te.legra.ph/file/ebb3a6357f0d4b082dbf1.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @The_Ghost_Hunter\
